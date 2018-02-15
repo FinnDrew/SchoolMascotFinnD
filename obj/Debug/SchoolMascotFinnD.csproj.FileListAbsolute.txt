@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Drew, Finn (s405526)\Unit 1 (Problem Solving)\SchoolMascotFinnD\SchoolMascotFinnD\SchoolMascotFinnD\bin\Debug\SchoolMascotFinnD.exe.config
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Drew, Finn (s405526)\Unit 1 (Problem Solving)\SchoolMascotFinnD\SchoolMascotFinnD\SchoolMascotFinnD\bin\Debug\SchoolMascotFinnD.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Drew, Finn (s405526)\Unit 1 (Problem Solving)\SchoolMascotFinnD\SchoolMascotFinnD\SchoolMascotFinnD\bin\Debug\SchoolMascotFinnD.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Drew, Finn (s405526)\Unit 1 (Problem Solving)\SchoolMascotFinnD\SchoolMascotFinnD\SchoolMascotFinnD\obj\Debug\SchoolMascotFinnD.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Drew, Finn (s405526)\Unit 1 (Problem Solving)\SchoolMascotFinnD\SchoolMascotFinnD\SchoolMascotFinnD\obj\Debug\SchoolMascotFinnD.frmSchoolMascot.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Drew, Finn (s405526)\Unit 1 (Problem Solving)\SchoolMascotFinnD\SchoolMascotFinnD\SchoolMascotFinnD\obj\Debug\SchoolMascotFinnD.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Drew, Finn (s405526)\Unit 1 (Problem Solving)\SchoolMascotFinnD\SchoolMascotFinnD\SchoolMascotFinnD\obj\Debug\SchoolMascotFinnD.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Drew, Finn (s405526)\Unit 1 (Problem Solving)\SchoolMascotFinnD\SchoolMascotFinnD\SchoolMascotFinnD\obj\Debug\SchoolMascotFinnD.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Drew, Finn (s405526)\Unit 1 (Problem Solving)\SchoolMascotFinnD\SchoolMascotFinnD\SchoolMascotFinnD\obj\Debug\SchoolMascotFinnD.pdb
